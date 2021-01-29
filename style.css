@@ -1,0 +1,60 @@
+body {
+    background-image: linear-gradient(to right top, #f57700, #ce9f00, #a6ba3c, #82cd78, #6cdab0, #34d5cb, #00cee3, #00c4f4, #00a7ff, #0085ff, #005dff, #060fec);
+    background:cover ;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+.heading{
+    width:100%;
+    background-color:rgb(0, 0, 0);
+     font-size: 32px; ;
+     margin: 0px;
+     align-items: center;
+     text-align:center;
+     
+}
+
+.heading2{
+    background: lightgrey;
+    width: 70%;
+    color: white;
+    font:25px ;
+    float:none;
+padding:10px;
+box-shadow:10px 10px 20px yellow;
+border-radius:20px;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+
+#object_list{
+    font-size :20px ;
+    color:rgb(8, 8, 0);
+}
+
+.results{
+    font-size: 22px;
+    box-shadow:5px 5px 10px rgb(221, 221, 81) ;
+
+}
+
+.footer{
+    position:fixed ;
+    bottom:0 ;
+    background: black;
+    color: white;
+    font-size:22;
+    text-align:center;
+    width:100% ;
+    line-height:3 ;
+
+}
+
+canvas{
+    border-radius: 10px;
+    border:5px solid black ;
+    margin-top:100px;
+    box-shadow: 5px 5px 10px black;
+}
